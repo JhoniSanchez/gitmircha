@@ -1,0 +1,98 @@
+commit c3055617e64ae3b9a9e52f87403ee55aff776f92
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 13:19:24 2022 -0400
+
+    agregando dos parrafos.
+
+commit e28688e9fb1beb9d10c43b281aa080eac7ccb7c6
+Merge: 5da138c 1ebf8a3
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 13:15:49 2022 -0400
+
+    Resolviendo conflicto en estaciones del ano y fechas de inicio
+
+commit 5da138c923316fe8ca4b1059493c3c1d18a8fc42
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 12:53:27 2022 -0400
+
+    Agregando Estaciones Del Ano Con Fechas
+
+commit 1ebf8a34ee142fbeec753707c8f7fdca7482c824
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 12:53:27 2022 -0400
+
+    Agregando Estaciones Del ano
+
+commit 6d1bb1df9b638edfa559983b92605377450d92fc
+Merge: e3de9ea d31087a
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 11:17:54 2022 -0400
+
+    Resolviendo conflictos
+
+commit d31087a45f1abe98b7f5c6d50f8cd82340873469
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 11:11:09 2022 -0400
+
+    Agregando index.js al indes.html
+
+commit e3de9ea335f337db2fc9fea89b697047f05f7993
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 11:07:39 2022 -0400
+
+    Agregando style.css al index.html
+
+commit 0a5334cc8208160534bedac9809dd467692690ec
+Merge: 927d489 049b726
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 10:45:16 2022 -0400
+
+    Merge branch 'js'
+
+commit 049b7269bf5ecf557950df68e32971698c92d05d
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 10:35:04 2022 -0400
+
+    Crenado index.js
+
+commit 927d4897079f191ca14b719abe09b0d2ca7c7f2f
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Sat Sep 10 10:26:14 2022 -0400
+
+    Creando Style.css
+
+commit 9a1be04077310a89a48b9efcd0085bc600fba5e2
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Fri Sep 9 10:39:49 2022 -0400
+
+    Creando Archivo index.html
+
+commit 1e5cf0fc054aebb44f4502d7010f14abe9c13040
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Fri Sep 9 09:50:46 2022 -0400
+
+    Ignorando Archivos .EXE
+
+commit c4cf161048d3f553ab63cf6b3ab8659d2918febe
+Author: Jhoni Sanchez <108532234+JhoniSanchez@users.noreply.github.com>
+Date:   Thu Sep 8 20:00:54 2022 -0400
+
+    Creando licencia del repositorio
+
+commit a26cd7cc926cfc84212b239c660aea79baceafeb
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Thu Sep 8 19:50:19 2022 -0400
+
+    Agregando mas contenido al readmd
+
+commit c36771572985bc1938b4123c51211ef1d74452a9
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Thu Sep 8 19:36:16 2022 -0400
+
+    agregando contenido al readme
+
+commit 91448526072409d3210046e19554c4c7614469a9
+Author: JhoniSanchez <jhonimanuel7184.js@gmail.com>
+Date:   Thu Sep 8 10:36:57 2022 -0400
+
+    Primer commit
